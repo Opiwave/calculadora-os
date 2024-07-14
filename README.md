@@ -21,12 +21,10 @@ El proyecto contiene los siguientes archivos:
 ## Uso
 
 1. Clona el repositorio:
-```bash
 git clone https://github.com/tu_usuario/calculadora.git
 cd calculadora
 
 2.Ejecuta el programa:
-
 python main.py
 
 3.Sigue las instrucciones en pantalla para realizar las diferentes operaciones.
